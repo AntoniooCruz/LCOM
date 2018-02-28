@@ -20,5 +20,5 @@ Developed by:
 [Tiago Castro](https://www.google.com)
 
 
-[António Cruz](https://www.google.com)
+[António Cruz](https://github.com/AntoniooCruz)
 
