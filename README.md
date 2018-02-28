@@ -15,4 +15,9 @@ lab5: 85/100
 
 Final Project Grade: 17,6
 
+Developed by:
+
+António Cruz
+
+Tiago Castro
 
