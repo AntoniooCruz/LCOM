@@ -17,9 +17,8 @@ Final Project Grade: 17,6
 
 Developed by:
 
-António Cruz
+[Tiago Castro](https://www.google.com)
 
-Tiago Castro
 
-[I'm an inline-style link](https://www.google.com)
+[António Cruz](https://www.google.com)
 
