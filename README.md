@@ -1,7 +1,7 @@
 # LCOM-
 If you are planning on using this as a guide to learn for your own course, do so at your own risk.
 
-Labs and project of the course LCOM
+Labs and project of the course LCOM course of the 2nd year
 Grades of the labs:
 
 lab2: 97/100
